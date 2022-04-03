@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lorenacioata
-- 👀 I’m interested in meeting new ideas and learning new stuff everyday
-- 🌱 I’m currently learning JavaScript and DEV-QA Testing.
-- 💞️ I’m looking to collaborate on future projects
+- 👀 I’m interested in meeting new ideas and learning new stuff everyday.
+- 🌱 I’m currently learning JavaScript and Automation Testing using WebdriverIO.
+- 💞️ I’m looking to collaborate on future projects.
 - 📫 Reach me on gmail: lorena.cioata@student.usv.ro, on yahoo: lorena.cioata@yahoo.com or on facebook: Lorena Cioata
